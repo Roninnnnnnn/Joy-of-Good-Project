@@ -83,19 +83,7 @@
     grid-area: l;
     animation-delay: calc(12 * var(--stagger-delay));
 }
-.card:nth-child(13) {
+.card:last-child {
     grid-area: 🌟;
     animation-delay: calc(13 * var(--stagger-delay));
-}
-.card:nth-child(14) {
-    grid-area: 🌟;
-    animation-delay: calc(14 * var(--stagger-delay));
-}
-.card:nth-child(15) {
-    grid-area: 🌟;
-    animation-delay: calc(15 * var(--stagger-delay));
-}
-.card:nth-child(16) {
-    grid-area: 🌟;
-    animation-delay: calc(16 * var(--stagger-delay));
 }
